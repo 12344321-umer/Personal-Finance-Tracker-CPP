@@ -1,3 +1,6 @@
 [
-  {"type": "Expense", "category": "Gas Bill", "amount": 5000.000000, "date": "2026-03-25"}
+  {"type": "Income", "category": "Salary", "amount": 100000.000000, "date": "2025-09-01"},
+  {"type": "Expense", "category": "Bills", "amount": 15000.000000, "date": "2025-09-03"},
+  {"type": "Expense", "category": "Food", "amount": 35000.000000, "date": "2025-09-28"},
+  {"type": "Expense", "category": "Others", "amount": 20000.000000, "date": "2025-09-30"}
 ]
