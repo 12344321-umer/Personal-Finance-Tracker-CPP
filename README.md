@@ -16,7 +16,7 @@ A bridge between a high-performance **C++ Backend** and a clean **Web Frontend**
 
 ## 📖 How to Run
 
-1. Compile the C++ code: `g++ main.cpp transaction.cpp -o BudgetApp`
+1. Compile the C++ code: `g++ main.cpp -o BudgetApp` (Ensure transaction.h is in the same folder)
 2. Run the app: `./BudgetApp`
-3. Add your transactions and select "Save".
-4. Open `index.html` (using Live Server) to see your dashboard!
+3. Add your transactions and select "3" to Save.
+4. Open `index.html` (using VS Code Live Server) to see your dashboard!
